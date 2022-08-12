@@ -1,6 +1,6 @@
 # EclipseCoders
 
-Competitive programming team of Software Developers that learn new technologies and compete in Hackathon together.
+Competitive programming team of Software Developers that learn new technologies and compete in Hackathons together.
 
 
 
