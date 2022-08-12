@@ -9,6 +9,7 @@ Competitive programming team of Software Developers that learn new technologies 
 
 - [@JL0218](https://github.com/JL0218)
 - [@CyaTmrw](https://github.com/CyaTmrw)
+- [@AjaKhanal](https://github.com/AjaKhanal)
 
 
 ## Hackathon Wins
