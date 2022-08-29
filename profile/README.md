@@ -11,6 +11,7 @@ Competitive programming team of Software Developers that learn new technologies 
 - [@CyaTmrw](https://github.com/CyaTmrw)
 - [@jacky-h-nguyen](https://github.com/jacky-h-nguyen)
 - [@AjaKhanal](https://github.com/AjaKhanal)
+- [@JasonZhao](https://github.com/jasonzhao323)
 
 
 ## Hackathon Wins
