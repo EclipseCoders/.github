@@ -20,3 +20,4 @@ Competitive programming team of Software Developers that learn new technologies 
 [SelfieHacks II](https://devpost.com/software/fluxwallet) - [FluxWallet](https://github.com/EclipseCoders/FluxWallet)\
 [Hack for the People](https://devpost.com/software/decoy) - [Decoy](https://github.com/JL0218/Decoy)\
 [NeuraHacks 2022](https://devpost.com/software/climate-chronicle) - [Climate Chronicle](https://github.com/EclipseCoders/ClimateChronicle)
+[Hacktoon 2](https://devpost.com/software/myanimearchive) - [MyAnimeArchive](https://github.com/EclipseCoders/MyAnimeArchive)
