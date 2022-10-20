@@ -7,7 +7,7 @@ Competitive programming team of Software Developers that learn new technologies 
 
 ## Team Members
 
-- [@JL0218](https://github.com/JL0218)
+- [@JackyL1u](https://github.com/JackyL1u)
 - [@CyaTmrw](https://github.com/CyaTmrw)
 - [@jacky-h-nguyen](https://github.com/jacky-h-nguyen)
 - [@AjaKhanal](https://github.com/AjaKhanal)
